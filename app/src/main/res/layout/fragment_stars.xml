@@ -32,7 +32,6 @@
         </LinearLayout>
 
         <LinearLayout
-
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
@@ -44,7 +43,7 @@
                 android:layout_width="240dp"
                 android:layout_height="240dp"
                 android:layout_gravity="center"
-                app:srcCompat="@drawable/fb_logo_no_stars" />
+                app:srcCompat="@drawable/fb_logo_no_stars"/>
 
         </LinearLayout>
 
