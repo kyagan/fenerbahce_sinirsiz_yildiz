@@ -4,8 +4,4 @@
         android:fontStyle="normal"
         android:fontWeight="400"
         android:font="@font/lobster" />
-    <font
-        android:fontStyle="italic"
-        android:fontWeight="400"
-        android:font="@font/lobster" />
 </font-family>

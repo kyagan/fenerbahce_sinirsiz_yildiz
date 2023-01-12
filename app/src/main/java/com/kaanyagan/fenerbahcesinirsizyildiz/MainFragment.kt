@@ -41,7 +41,6 @@ class MainFragment : Fragment() {
             else{
                 val action = MainFragmentDirections.actionMainFragmentToStarsFragment()
                 Navigation.findNavController(it).navigate(action)
-
             }
         }
     }

@@ -25,12 +25,12 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@android:color/white"
                 android:fontFamily="@font/lobster"
+                android:gravity="center"
                 android:text="@string/app_main_title"
                 android:textColor="@color/fb_dark_blue"
-                android:textSize="54sp"
-                android:background="@color/white"
-                android:gravity="center" />
+                android:textSize="54sp" />
         </LinearLayout>
 
         <LinearLayout
@@ -62,7 +62,7 @@
                 android:layout_height="56dp"
                 android:text="@string/add_star"
                 android:textSize="18sp"
-                android:textColor="@color/white"/>
+                android:textColor="@android:color/white"/>
         </LinearLayout>
 
     </LinearLayout>
