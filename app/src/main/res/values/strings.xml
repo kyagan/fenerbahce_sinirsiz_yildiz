@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fenerbahçe Sınırsız Yıldız</string>
+    <string name="app_main_title">Fenerbahçe \nSınırsız Yıldız</string>
+    <string name="add_star">Yıldız Ekle</string>
+    <string name="congratulations">Tebrikler!</string>
+    <string name="all_the_stars_on_fb">Tüm yıldızlar artık Fenerbahçe\'nin!</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fenerbahce Limitless Stars</string>
+    <string name="app_main_title">Fenerbahce \nLimitless Stars</string>
+    <string name="add_star">Add Star</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="all_the_stars_on_fb">All the stars are now Fenerbahce!</string>
+</resources>
